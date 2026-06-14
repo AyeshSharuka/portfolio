@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { GitFork, ExternalLink, Star } from "lucide-react";
+import { GitFork, Star } from "lucide-react";
 import { projects } from "../data/portfolio";
 import { SectionLabel } from "./About";
 
