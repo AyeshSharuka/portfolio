@@ -223,7 +223,7 @@ export const projects = [
   {
     title: "SEO Content Generation Platform",
     description:
-      "Cloud-native content generation API using FastAPI and AWS Bedrock, leveraging Claude and LLaMA LLMs to produce SEO-ready marketing copy — keywords, titles, meta descriptions, CTAs — from business context. Structured JSON output with Pydantic models.",
+      "Cloud-native content generation API using FastAPI and AWS Bedrock, leveraging Claude and LLaMA LLMs to produce SEO-ready marketing copy keywords, titles, meta descriptions, CTAs from business context. Structured JSON output with Pydantic models.",
     tags: [
       "FastAPI",
       "AWS Bedrock",
