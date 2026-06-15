@@ -213,10 +213,10 @@ export const education = [
 
 export const projects = [
   {
-    title: "Advanced RAG System with LangGraph",
+    title: "Production-Grade Advanced RAG System",
     description:
-      "Multi-agent RAG architecture using LangGraph with tool-calling sub-agents, human-in-the-loop checkpoints, and vector store retrieval. Implements adaptive retrieval strategies and re-ranking for high-accuracy knowledge retrieval.",
-    tags: ["LangGraph", "LangChain", "Python", "RAG", "Vector Store", "Agents"],
+      "Self-correcting, cyclic RAG pipeline using LangGraph with history-aware planning and multi-step reasoning for enterprise-grade hallucination reduction. Integrates Groq for high-speed accelerated inference, semantic re-ranking for data denoising to improve answer relevance and factual grounding, and deploys on GCP with cloud security, scaling, and cost-management best practices.",
+    tags: ["LangGraph", "LangChain", "Python", "RAG", "GCP", "Groq", "Semantic Re-ranking", "Vector Store", "Agents"],
     github: "https://github.com/AyeshSharuka",
     featured: true,
   },
