@@ -129,12 +129,12 @@ export default function Hero() {
   };
 
   const tags = [
-    "LLM Systems",
-    "RAG Pipelines",
     "Agentic AI",
+    "RAG Pipelines",
+    "LLM Systems",
+    "LangGraph",
     "AWS Bedrock",
     "FastAPI",
-    "LangGraph",
   ];
 
   return (
