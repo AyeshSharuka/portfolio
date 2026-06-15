@@ -162,7 +162,7 @@ export const experience = [
     ],
   },
   {
-    role: "Industrial Training — Group Analytics & AI",
+    role: "Industrial Training - Group Analytics & AI",
     company: "Dialog Axiata PLC",
     period: "Feb 2024 – Oct 2024",
     location: "Colombo, Sri Lanka · Hybrid",
