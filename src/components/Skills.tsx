@@ -16,7 +16,7 @@ export default function Skills() {
           <SectionLabel>Skills</SectionLabel>
           <h2 className="section-title">Technical Toolkit</h2>
           <p style={{ color: "var(--slate)", fontSize: "1rem", maxWidth: 500, marginBottom: "3rem" }}>
-            A full-stack AI engineering toolkit — from model APIs and agent frameworks to cloud infrastructure and secure backends.
+            A full-stack AI engineering toolkit from model APIs and agent frameworks to cloud infrastructure and secure backends.
           </p>
         </motion.div>
 
