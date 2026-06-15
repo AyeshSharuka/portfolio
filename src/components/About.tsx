@@ -6,7 +6,7 @@ const pillars = [
   {
     icon: <Brain size={22} />,
     title: "LLM Engineering",
-    desc: "Designing and deploying LLM-powered systems using Claude, LLaMA, Gemini, and OpenAI APIs — with focus on reliability, latency, and cost.",
+    desc: "Designing and deploying LLM-powered systems using Claude, LLaMA, Gemini, and OpenAI APIs with focus on reliability, latency, and cost.",
   },
   {
     icon: <Layers size={22} />,
@@ -16,7 +16,7 @@ const pillars = [
   {
     icon: <Cloud size={22} />,
     title: "Cloud-Native AI on AWS",
-    desc: "End-to-end AI solutions on AWS — Bedrock, SageMaker, Lambda, S3, EC2, CloudWatch. Secure, observable, production-grade deployments.",
+    desc: "End-to-end AI solutions on AWS Bedrock, SageMaker, Lambda, S3, EC2, CloudWatch. Secure, observable, production-grade deployments.",
   },
   {
     icon: <Code2 size={22} />,
@@ -64,7 +64,7 @@ export default function About() {
           >
             I'm a results-driven AI professional with an MSc in Artificial Intelligence (Dublin Business School) 
             and a BSc in Industrial Statistics. I specialize in turning ambiguous business problems into 
-            production-grade AI systems — from agentic pipelines and RAG architectures to cloud-native REST APIs. 
+            production-grade AI systems from agentic pipelines and RAG architectures to cloud-native REST APIs. 
             My work spans LLM application development, ML model training on AWS SageMaker, and secure FastAPI 
             backends with enterprise auth patterns.
           </p>
