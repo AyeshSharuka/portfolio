@@ -3,7 +3,7 @@ export const personal = {
   title: "AI Engineer",
   subtitle: "Machine Learning · Generative AI · LLM Systems",
   tagline:
-    "I design and ship production-grade AI systems — from agentic pipelines and RAG architectures to cloud-native APIs — that turn ambiguous business requirements into scalable, maintainable products.",
+    "I build AI systems that actually ship. My work sits at the intersection of LLMs, agentic pipelines, and cloud infrastructure, turning a rough business requirement into something running in production on AWS. FastAPI backends, RAG architectures, multi-agent systems, the full thing.",
   email: "ayeshsharuka123@gmail.com",
   phone: "+353 89 247 0872",
   location: "Dublin, Ireland",
