@@ -196,14 +196,14 @@ export const experience = [
 
 export const education = [
   {
-    degree: "MSc — Artificial Intelligence",
+    degree: "MSc - Artificial Intelligence",
     institution: "Dublin Business School",
     period: "Sep 2025 – Sep 2026",
     location: "Dublin, Ireland",
     note: "Applied Research Project: Comparing ML & Deep Learning models for Renewable Energy Forecasting in Ireland (EirGrid & Met Éireann data)",
   },
   {
-    degree: "BSc — Industrial Statistics & Mathematical Finance",
+    degree: "BSc - Industrial Statistics & Mathematical Finance",
     institution: "University of Colombo",
     period: "Aug 2019 – May 2023",
     location: "Sri Lanka",
