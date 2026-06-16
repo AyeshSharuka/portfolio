@@ -1,4 +1,4 @@
-# Ayesh Sharuka — Personal Portfolio
+# Ayesh Sharuka - Personal Portfolio
 
 > AI Engineer · Machine Learning · Generative AI · LLM Systems
 
@@ -13,16 +13,16 @@ Personal portfolio website showcasing my experience, projects, and technical ski
 ## Tech Stack
 
 - **React 18** + **TypeScript**
-- **Framer Motion** — page and scroll animations
-- **Lucide React** — icon library
-- **CSS Custom Properties** — design token system
-- **Vercel** — deployment and hosting
+- **Framer Motion** - page and scroll animations
+- **Lucide React** - icon library
+- **CSS Custom Properties** - design token system
+- **Vercel** - deployment and hosting
 
 ## Features
 
 - Typewriter cycling title animation
 - Smooth scroll animations on all sections
-- Responsive design — mobile, tablet, desktop
+- Responsive design - mobile, tablet, desktop
 - Sticky navigation with mobile menu
 - Project cards with featured highlights
 - Work experience timeline
